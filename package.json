@@ -1,0 +1,23 @@
+{
+  "name": "javascript-starterkit",
+  "version": "1.0.0",
+  "description": "starterkit for javascript application",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/public-apis-demos/javascript-starterkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/public-apis-demos/javascript-starterkit/issues"
+  },
+  "homepage": "https://github.com/public-apis-demos/javascript-starterkit#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {}
+}
