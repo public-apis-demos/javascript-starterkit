@@ -2,7 +2,7 @@
   "name": "javascript-starterkit",
   "version": "1.0.0",
   "description": "starterkit for javascript application",
-  "main": "index.js",
+  "main": "src/js/index.js",
   "scripts": {
     "start": "gulp"
   },
@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/public-apis-demos/javascript-starterkit#readme",
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2",
     "gulp": "^4.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  }
 }
